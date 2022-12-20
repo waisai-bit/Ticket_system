@@ -1,0 +1,19 @@
+.container {
+  min-height: 100%;
+}
+
+.panel-title {
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  line-height: 24px;
+}
+.panel-body {
+  padding-top: 30px;
+}
+.input-group {
+  margin-bottom: 25px;
+}
+.form-group {
+  margin-top: 10px;
+}
